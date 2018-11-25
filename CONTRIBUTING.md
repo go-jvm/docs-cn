@@ -12,7 +12,7 @@ export PATH=$PATH:$GOPATH/bin
 ```
 ## 工作流
 
-===
+
 ### 第1步：云中叉子
 1、访问HTTPS:/GIHUUBCOM/GO-JVM/GOJVM <br>
 2、点击叉按钮（右上）建立基于云的叉子。<br> 
