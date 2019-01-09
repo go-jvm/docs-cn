@@ -15,7 +15,7 @@ export PATH=$PATH:$GOPATH/bin
 
 ### 第1步：fork远程仓库
 1、访问HTTPS:/GIHUUBCOM/GO-JVM/GOJVM <br>
-2、点击叉按钮（右上）建立基于fork的远程仓库。<br> 
+2、点击Fork按钮（右上）建立基于fork的远程仓库。<br> 
 ### 第2步：克隆仓库到本地存储 
 定义本地工作目录：
 ```Go
@@ -59,7 +59,7 @@ git checkout master
 ```Go
 git rebase upstream/master
 ```
-主支部： 
+主分支： 
 ```Go
 git checkout -b myfeature
 ```
