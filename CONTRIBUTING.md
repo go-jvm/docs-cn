@@ -63,9 +63,11 @@ git rebase upstream/master
 ```Go
 git checkout -b myfeature
 ```
-### 第4步:发展
+### 第4步:开发
 ##### 编辑代码
-##### 运行试验 
+
+##### 运行测试
+
 ### 第5步：保持分支同步 
 ```Go
 # While on your myfeature branch.
@@ -77,7 +79,7 @@ git rebase upstream/master
 ```Go
 git commit
 ```
-### 第7步：推 
+### 第7步：push 
 
 当准备复查时（或者只是为了建立离线备份或者工作），将分支推到您的分支上 github.com:
 
