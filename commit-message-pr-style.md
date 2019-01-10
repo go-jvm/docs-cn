@@ -1,11 +1,11 @@
-# 提交信息和拉动请求方式
+# commit message 和 pr 风格指南
 
-本文档描述了应用于所有gojvm存储库的提交消息和Pull Request方式。当你提交时，一定要按照样式写一个好的提交消息以及好的Pull Request标题和描述。
+本文档描述了应用于所有 gojvm 仓库的提交消息和Pull Request方式。当你提交时，一定要按照样式写一个好的提交消息以及好的 Pull Request 标题和描述。
 
 ## 为什么好的提交消息很重要
 
 -为了加快审核过程
-   -帮助审阅者更好地理解PR
+   -帮助审阅者更好地理解 PR
    -允许忽略不重要的提交
 -帮助我们编写好的发行说明
 -帮助未来的维护人员建立上下文
@@ -69,18 +69,18 @@
 - 不要使用冗长的复合词
 - 不要缩写，除非它是绝对必要的
 
-## Pull Request标题样式
+## Pull Request 标题样式
 
 当提交Pull请求时，请提供有关标题中所有更改的详细信息，但需保持简洁。
 
-**Pull Request标题格式：**`<subsystem>: <what changed>`
+** Pull Request 标题格式：**`<subsystem>: <what changed>`
 
-好的Pull Request标题的格式与[good commit message的主题行]（#formast-of-good-commit-message）相同。
+好的 Pull Request 标题的格式与[good commit message的主题行]（#formast-of-good-commit-message）相同。
 
 - 如果第一个提交消息中涉及所有主要更改，则可以使用第一个提交消息作为PR标题。
 - 如果一个PR中包含多个提交，并且第一个提交消息无法涵盖所有更改，则编写一个新的PR标题，该标题可以涵盖此PR中涉及的所有主要更改。
 
-## Pull Request描述方式
+## Pull Request 描述方式
 
 对于“对话”框中的“拉取请求”描述，请参阅以下“拉取请求”描述模板并包括必要的信息：
 
@@ -108,11 +108,11 @@
 - 错误修复（修复问题的非破坏性修改）
 - 打破更改（修复可能导致现有功能无法按预期工作的功能）
  
-## 如何测试PR？（必填）
+## 如何测试 PR？（必填）
 
 请描述你运行的测试以验证更改，是否完成了单元测试，集成测试或手动测试？
 
-## PR会影响文档（docs / docs-cn）更新吗？（必填）
+## PR 会影响文档（docs / docs-cn）更新吗？（必填）
 
 如果有文件变更，请在（[docs]（https://github.com/gojvm/docs）和[docs-cn]（https://github.com/gojvm/docs-cn））中提交PR。 并在此处添加PR编号。
 
@@ -123,6 +123,6 @@
 ## 添加一些正/负示例（可选）
 ```
 
-对于简短而明显的Pull请求，可以省略上述一些信息。
+对于简短而明显的 Pull Request，可以省略上述一些信息。
 
 谢谢你的贡献！
