@@ -1,8 +1,8 @@
 # commit message 和 pr 风格指南
 
-本文档描述了应用于所有 gojvm 仓库的提交消息和Pull Request方式。当你提交时，一定要按照样式写一个好的提交消息以及好的 Pull Request 标题和描述。
+本文档描述了应用于所有 gojvm 仓库的 commit message 和 Pull Request 方式。当你提交时，一定要按照样式写一个好的 commit message 以及好的 Pull Request 标题和描述。
 
-## 为什么好的提交消息很重要
+## 为什么好的 commit message 很重要
 
 -为了加快审核过程
    -帮助审阅者更好地理解 PR
@@ -11,9 +11,9 @@
 -帮助未来的维护人员建立上下文
    -浏览历史记录时提供更好的信息
    
-## 什么是好的提交信息
+## 什么是好的 commit message
 
-好的提交信息要素：
+好的 commit message 要素：
 
 1. **你的改变是什么？（必填）**
 
