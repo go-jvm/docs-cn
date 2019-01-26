@@ -12,3 +12,8 @@
 * k. CMU [在线课程](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx)
 
 * l.MIT 6.828: [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2017/index.html) ```重点推荐```
+
+## MIT Computer Science and Engineering
+[Computer Science and Engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)
+
+[Study method](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/)
