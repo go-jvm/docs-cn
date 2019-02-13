@@ -7,6 +7,7 @@
 * f. CMU 15-445/645 [Intro to Database Systems](https://www.youtube.com/watch?v=xjhQ0e9Hlds&index=1&list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) ```推荐```
 * g. CMU 15-418 [Parallel Computer Architecture and Programming](https://www.youtube.com/playlist?list=PLpIxOj-HnDsO4Atvrp86c-4La9Mq3kMQZ)
 * h. CMU 15-721[ Advanced Database Systems](https://www.youtube.com/watch?v=UGMLKsma_VU&list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0)[课程介绍](https://15721.courses.cs.cmu.edu/spring2018/)
+* CMU 15-721 [Advanced Database Systems 2019](https://15721.courses.cs.cmu.edu/spring2019/schedule.html)
 * i. CMU 15-440 [Distributed systems](https://www.youtube.com/watch?v=yUtn_vUPbNg&list=PLpl804R-ZwjIUVQCX_Rypu0Cqsqg2i0eU) (缺)
 * j. Princeton University [普林斯顿大学-算法 Algorithms](https://www.bilibili.com/video/av8994940?from=search&seid=11399815542132731978)  ```重点推荐```
 * k. CMU [在线课程](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx)
